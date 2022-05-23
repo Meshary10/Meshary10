@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Meshary Alyami</h1>
 <h3 align="center">Senior CS Student at PSAU, interested in the field of Data Science, Data Analysis, ML and AI.</h3>
 
-- My last project are available at [https://github.com/Meshary10/Google-Developer-Student-Project-1st-Place-](https://github.com/Meshary10/Google-Developer-Student-Project-1st-Place-)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1V22dxcP2AMu07m_FEyoEeYPHyoxIUh_4/view?usp=sharing/1V22dxcP2A)
 
-- Ask me about **Java, Python, Machine Learning**
+- My last project are available at [Last Project](https://github.com/Meshary10/Google-Develo1V22dxcP2AMu07m_FEyoEeYPHyoxIUh_4/view?usp=sharing)
+
+- My last project are available at [https://github.com/Meshary10/Google-Developer-Student-Project-1st-Place-](https://github.com/Meshary10/Google-Developer-Student-Project-1st-Place-)
 
 - You can reach me in **imesharyx4@gmail.com**
 
@@ -12,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mesharyx44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesharyx44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meshary alyami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meshary alyami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/meshary-alyami-b14a00233?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bx7dt0ngkrhyzfyo3hbrbqg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshary-alyami-b14a00233?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bx7dt0ngkrhyzfyo3hbrbqg%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
