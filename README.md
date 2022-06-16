@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Meshary Alyami</h1>
 <h3 align="center">Senior CS Student at PSAU, interested in the field of Data Science, Data Analysis, ML and AI.</h3>
 
-- Know about my experiences [Resume](https://drive.google.com/file/d/1V22dxcP2AMu07m_FEyoEeYPHyoxIUh_4/view?usp=sharing/1V22dxcP2A)
+- Know about my experiences [Resume](https://drive.google.com/file/d/16qbZJgSdilbyAgH6SrC7La8G7kHgVnc3/view?usp=sharing)
 
-- My last project are available at [Last Project](https://github.com/Meshary10/Google-Developer-Student-Project-1st-Place-)
+- My last project are available at [Last Project](https://github.com/Meshary10/Sentiment-Analysis-of-Arabic-Tweets)
+
+- All of my projects are available at [Website](https://meshary.me)
 
 - You can reach me in **imesharyx4@gmail.com**
 
