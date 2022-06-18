@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meshary Alyami</h1>
 <h3 align="center">Senior CS Student at PSAU, interested in the field of Data Science, Data Analysis, ML and AI.</h3>
 
-- Know about my experiences [Resume](https://drive.google.com/file/d/16qbZJgSdilbyAgH6SrC7La8G7kHgVnc3/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1XOTLThzl8agJ9sqYoGf_K0HDfnAqMKrR/view?usp=sharing)
 
 - My last project are available at [Last Project](https://github.com/Meshary10/Sentiment-Analysis-of-Arabic-Tweets)
 
