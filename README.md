@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meshary Alyami</h1>
 <h3 align="center">Senior CS Student at PSAU, interested in the field of Data Science, Data Analysis, ML and AI.</h3>
 
-- Know about my experiences [Resume](https://drive.google.com/file/d/14DYHNqEctDLl54UN98-_ap_6OZsNPYmJ/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1SdoiszOXWvSSDmwNvv0mUmN6YKHaShkD/view?usp=sharing)
 
 - My last project are available at [Last Project](https://github.com/Meshary10/Mammogram-mass-predict-model)
 
