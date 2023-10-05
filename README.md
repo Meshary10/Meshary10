@@ -5,7 +5,7 @@
 
 - You can reach me in **m.alyami@meshary.me**
 
-- My last project are available at [Last Project](https://github.com/Meshary10/Arabic_Chatboat_TV_Series_Suggestions)
+- My last project are available at [Last Project](https://github.com/Meshary10/MLOps)
 
 - All of my projects are available at [Website](https://meshary.me)
 
