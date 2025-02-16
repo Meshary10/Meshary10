@@ -5,7 +5,7 @@
 
 - You can reach me in **m.alyami@meshary.me**
 
-- My last project are available at [Last Project](https://github.com/Meshary10/MLOps)
+- My last project are available at [Last Project](https://github.com/Meshary10/terraform-iac)
 
 - All of my projects are available at [Website](https://meshary.me)
 
