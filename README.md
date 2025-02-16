@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Meshary Alyami</h1>
+<h1 align="center">Hi, I'm Meshari Alyami</h1>
 <h3 align="center">Passionate computer science graduate, CloudOps & MLOps Engineer.</h3>
 
 - Know about my experiences [Resume](https://drive.google.com/file/d/1Lqddf9GzdUwfLwiMv-yj7mU6EYy5-Nrv/view?usp=sharing)
